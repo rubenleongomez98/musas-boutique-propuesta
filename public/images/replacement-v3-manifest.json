@@ -1,0 +1,23 @@
+{
+  "generatedAsset": {
+    "file": "replacement-v3-2.jpg",
+    "source": "OpenAI built-in image_gen",
+    "generatedOn": "2026-10-08",
+    "prompt": "Use case: ads-marketing. Asset type: vertical luxury resort fashion catalog photo. Primary request: A clearly adult woman aged 25 with a slim athletic silhouette modeling a fitted red midi dress with thin shoulder straps. Tasteful confident relaxed standing fashion pose facing the camera. Scene: uncluttered warm golden limestone resort courtyard with soft coastal light, subtle Mediterranean greenery at a distance. Full head and entire dress clearly visible, photograph from head to ankles, straight-on camera and comfortable empty margin above head. Dress is solid true red, body skimming with elegant clean construction, no slits or cutouts. Photorealistic premium campaign, realistic proportions, warm afternoon sunlight and restrained natural styling. No text, no logos, no watermark, no other people.",
+    "verification": "Head and entire fitted strappy red midi visible; standing full body pose; warm golden limestone resort; no visual defects detected.",
+    "views": [
+      "front"
+    ]
+  },
+  "stockLicense": "https://www.pexels.com/license/",
+  "stockAssets": [
+    {
+      "source": "https://www.pexels.com/photo/11819418/",
+      "file": "replacement-v3-7.jpg"
+    },
+    {
+      "source": "https://www.pexels.com/photo/woman-in-black-bikini-standing-on-the-beach-11691676/",
+      "file": "replacement-v3-8.jpg"
+    }
+  ]
+}

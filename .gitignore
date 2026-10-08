@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.env*
+
+*.tsbuildinfo
+campaign-originals/
+/preview-*.png
+/hero-*.png
+/desktop.png
+AGENTS.md
